@@ -22,7 +22,7 @@ const Contact: React.FC = () => {
           {/* Right Column - Image of Benny (provided by user) */}
           <div className="w-full md:w-1/2 relative min-h-[500px]">
             <img 
-              src="./benny.jpg" 
+              src="/benny.jpg" 
               alt="Benny the dog" 
               className="absolute inset-0 w-full h-full object-cover"
             />
