@@ -27,7 +27,7 @@ const About: React.FC = () => {
           {/* Image Right (provided by user) */}
           <div className="w-full md:w-2/5 bg-slate-100">
             <img 
-              src="./isaac.jpg" 
+              src="/isaac.jpg" 
               alt="Isaac K. Brown" 
               className="w-full h-full object-cover min-h-[500px] grayscale contrast-105"
             />
