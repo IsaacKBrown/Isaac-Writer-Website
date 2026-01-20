@@ -43,7 +43,7 @@ const Home: React.FC = () => {
               <div className="absolute -inset-4 border border-white/10 -z-10 translate-x-4 translate-y-4"></div>
               <div className="overflow-hidden shadow-2xl ring-1 ring-white/20">
                 <img 
-                  src="./isaac.jpg" 
+                  src="/isaac.jpg" 
                   alt="Isaac K. Brown" 
                   className="w-full h-auto object-cover grayscale brightness-90 contrast-110 hover:grayscale-0 hover:brightness-100 transition-all duration-1000 ease-in-out"
                 />
