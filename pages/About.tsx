@@ -16,7 +16,7 @@ const About: React.FC = () => {
             </h3>
             <div className="space-y-6 text-lg md:text-xl leading-relaxed font-light text-slate-700">
               <p>
-                Isaac is a writer from Palo Alto, California, currently living in Austin, Texas, with his wife and senior dog.
+                Isaac is a writer from Palo Alto, California, currently living in Austin, Texas, with his wife, Victoria, and their senior dog, Benny.
               </p>
               <p>
                 He has an MFA in Screenwriting from USC and approaches his fiction with a cinematic sensibility, often exploring themes of isolation, obsession, and the oddity of ordinary life.
