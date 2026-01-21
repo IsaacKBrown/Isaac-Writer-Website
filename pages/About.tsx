@@ -19,10 +19,10 @@ const About: React.FC = () => {
                 Isaac is a writer from Palo Alto, California, currently living in Austin, Texas, with his wife, Victoria, and their senior dog, Benny.
               </p>
               <p>
-                He is an avid painter and oenophile, and co-founder of the wine blog <i> Tannic Panic! </i>
+                Avid painter and wine nerd, Isaac co-founded the wine blog <i> Tannic Panic! </i> with his brother in 2023.
               </p>
               <p>
-                Isaac has an MFA in Screenwriting from USC and approaches his fiction with a cinematic sensibility, often exploring themes of isolation, obsession, and the oddity of ordinary life.
+                He has an MFA in Screenwriting from USC and approaches his fiction with a cinematic sensibility, often exploring themes of isolation, obsession, and the oddity of ordinary life.
               </p>
             </div>
           </div>
