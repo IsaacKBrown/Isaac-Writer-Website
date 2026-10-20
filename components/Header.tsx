@@ -15,7 +15,7 @@ const Header: React.FC = () => {
     <header className="bg-[#0f172a] text-white py-6 px-4 md:px-12 sticky top-0 z-50 border-b border-white/10 shadow-xl">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
         <div className="tracking-[0.2em] font-medium text-sm text-center md:text-left">
-          I write stories
+          
         </div>
         <nav>
           <ul className="flex space-x-8 text-sm tracking-widest font-semibold">
